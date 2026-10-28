@@ -1,8 +1,8 @@
-# Pi-hole Zero 2 W Case
+# Pi-hole Zero 2W Case
 
-A compact two-piece resin (SLA) enclosure for a **Raspberry Pi Zero 2 W** running [Pi-hole](https://pi-hole.net/). The lid snaps onto the base, so you don't need screws or nuts. The lid has a swept-blade, fan-style vent over the processor, and the Pi-hole logo and wordmark are engraved into the lid.
+A compact two-piece resin (SLA) enclosure for a **Raspberry Pi Zero 2W** running [Pi-hole](https://pi-hole.net/). The lid snaps onto the base, so you don't need screws or nuts. The lid has a swept-blade, fan-style vent over the processor, and the Pi-hole logo and wordmark are engraved into the lid.
 
-![Pi-hole Zero 2 W case, isometric view](images/case-iso.png)
+![Pi-hole Zero 2W case, isometric view](images/case-iso.png)
 
 <p align="center">
   <img src="images/case-top.png" alt="Lid, top view" width="320">
